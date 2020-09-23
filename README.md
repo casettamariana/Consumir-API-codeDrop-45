@@ -23,7 +23,7 @@ Consumir API
 ## backend
 Consumir API
 
-- [] jsonpalceholder
-- [] Usar axios
-- [] Semelhanças ente axios e fetch
-- []  usar thy/catch
+- [x] jsonpalceholder (https://jsonplaceholder.typicode.com/users)
+- [x] Usar axios
+- [x] Semelhanças ente axios e fetch
+- [x]  usar thy/catch
